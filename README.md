@@ -1,3 +1,3 @@
 # pcli
 
-Cli application for paste.click
+Command cli application for paste.click
